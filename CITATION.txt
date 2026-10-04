@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "EIT 13D — Autonomous Evolutionary Vector: Candidate Model for NOVA Q / EIT"
+type: software
+authors:
+  - family-names: "Mladenovski"
+    given-names: "Toni"
+version: "0.1.0-rc1"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/eit-orbitos/nova-q-eit-d13-aev"
+abstract: >-
+  Candidate model for NOVA Q / EIT defining the Autonomous Evolutionary
+  Vector (AEV) as a normalized model-internal transformation-rate candidate.
+  This artifact does not establish physical Hz, AI consciousness, scientific
+  truth, or a promoted physical 13th dimension.
