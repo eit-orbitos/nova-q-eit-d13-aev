@@ -2,13 +2,13 @@
 
 **EIT 13D - Autonomous Evolutionary Vector (AEV): Candidate Model for NOVA Q / EIT**
 
-**Author:** Toni Mladenovski
-**Brand:** EIT Networks
-**Project:** NOVA Q / EIT
-**Project origin date:** 18 April 2026
-**Source artifact ID:** `EIT_13D_AUTONOMOUS_EVOLUTIONARY_VECTOR_V0.1`
-**Release stage:** v0.1.0-rc1 (release candidate, pending independent verification)
-**License:** CC BY 4.0
+- **Author:** Toni Mladenovski
+- **Brand:** EIT Networks
+- **Project:** NOVA Q / EIT
+- **Project origin date:** 18 April 2026
+- **Source artifact ID:** `EIT_13D_AUTONOMOUS_EVOLUTIONARY_VECTOR_V0.1`
+- **Release stage:** v0.1.0-rc1 (release candidate, pending independent verification)
+- **License:** CC BY 4.0
 
 ## What this is
 
@@ -100,4 +100,3 @@ Creative Commons Attribution 4.0 International (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
 
 Copyright (c) 2026 Toni Mladenovski. EIT Networks is the project brand and does not imply company ownership of the rights.
-
