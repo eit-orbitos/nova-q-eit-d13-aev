@@ -7,7 +7,7 @@
 - **Project:** NOVA Q / EIT
 - **Project origin date:** 18 April 2026
 - **Source artifact ID:** `EIT_13D_AUTONOMOUS_EVOLUTIONARY_VECTOR_V0.1`
-- **Release stage:** v0.1.0-rc1 (release candidate, pending independent verification)
+  - **Release stage:** v0.1.0 (final candidate-model release)
 - **License:** CC BY 4.0
 
 ## What this is
