@@ -86,9 +86,12 @@ The expected result is `20/20 PASS`. This was checked with Python 3.13; the sour
 
 ## Verification status
 
-- The delivery receipt records a prior run in a single sandbox (audit 28/28, full suite 20/20, two rebuilds byte-identical). That is not an independent-environment reproduction.
-- Independent verification of the tagged release candidate is pending.
-- Zenodo publication is planned only after a final release is verified. This repository does not yet have a DOI.
+- The tagged release candidate v0.1.0-rc1 was independently re-cloned and checked in a separate reviewer workflow.
+- The 12 source-file SHA-256 values and sizes matched the delivery receipt.
+- The reported independent run produced 20/20 PASS for test_d13_full.py and 28/28 PASS for audit.py.
+- CONTENT_MANIFEST_SHA256, SOURCE_TREE_MANIFEST_SHA256, and SOURCE_INVENTORY_SHA256 were reproduced against the declared serialization/inventory rules.
+- These checks establish source/replay consistency for the declared software artifact; they do not establish physical validity, scientific truth, consciousness, or a physical 13th dimension.
+- Zenodo DOI will be added after publication of the final v0.1.0 release.
 
 ## How to cite
 
