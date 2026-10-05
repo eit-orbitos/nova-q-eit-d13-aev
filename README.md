@@ -103,3 +103,4 @@ Creative Commons Attribution 4.0 International (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
 
 Copyright (c) 2026 Toni Mladenovski. EIT Networks is the project brand and does not imply company ownership of the rights.
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.23149273
