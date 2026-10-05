@@ -1,11 +1,14 @@
+
 {
   "title": "EIT 13D — Autonomous Evolutionary Vector: Candidate Model for NOVA Q / EIT",
   "upload_type": "software",
+  "version": "0.1.0",
   "description": "Candidate software/model artifact for NOVA Q / EIT. The Autonomous Evolutionary Vector (AEV) is defined as a normalized model-internal transformation-rate candidate. This artifact does not establish physical Hz, AI consciousness, scientific truth, or a promoted physical 13th dimension.",
   "creators": [
     {
       "name": "Mladenovski, Toni",
-      "affiliation": "Independent Researcher"
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0009-8343-662X"
     }
   ],
   "license": "cc-by-4.0",
@@ -14,7 +17,8 @@
     "EIT",
     "Autonomous Evolutionary Vector",
     "D13",
-    "information transformation"
+    "information transformation",
+    "model-internal autonomy"
   ],
   "related_identifiers": [
     {
@@ -23,5 +27,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Brand: EIT Networks. Project origin date: 18 April 2026. Update final version/date/DOI at publication."
+  "notes": "Brand: EIT Networks. Project origin date: 18 April 2026. D13 remains an extension candidate and is not a physical-frequency, consciousness, scientific-truth, or physical-dimension claim."
 }
