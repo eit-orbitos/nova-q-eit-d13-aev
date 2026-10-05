@@ -91,16 +91,18 @@ The expected result is `20/20 PASS`. This was checked with Python 3.13; the sour
 - The reported independent run produced 20/20 PASS for test_d13_full.py and 28/28 PASS for audit.py.
 - CONTENT_MANIFEST_SHA256, SOURCE_TREE_MANIFEST_SHA256, and SOURCE_INVENTORY_SHA256 were reproduced against the declared serialization/inventory rules.
 - These checks establish source/replay consistency for the declared software artifact; they do not establish physical validity, scientific truth, consciousness, or a physical 13th dimension.
-- Zenodo DOI will be added after publication of the final v0.1.0 release.
+- Zenodo publication completed for v0.1.0: https://doi.org/10.5281/zenodo.23149273
 
 ## How to cite
 
 See `CITATION.cff`. GitHub shows a "Cite this repository" button when that file is present.
 
 ## License
+- **License:** CC BY 4.0
+- **Zenodo DOI:** https://doi.org/10.5281/zenodo.23149273
 
 Creative Commons Attribution 4.0 International (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
 
 Copyright (c) 2026 Toni Mladenovski. EIT Networks is the project brand and does not imply company ownership of the rights.
-- **Zenodo DOI:** https://doi.org/10.5281/zenodo.23149273
+
